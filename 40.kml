@@ -28,7 +28,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7cfff5</color>
+			<color>7f7cfff5</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor109">
@@ -43,7 +43,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7cfff5</color>
+			<color>7f7cfff5</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor134">
