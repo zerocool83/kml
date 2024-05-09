@@ -28,11 +28,38 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>7fffaaff</color>
+			<color>00ffaaff</color>
 		</PolyStyle>
 	</Style>
+	<Style id="falseColor39">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>ID</b></td><td>$[MUNICIPIO/ID]</td></tr>
+  <tr><td><b>ENTIDAD</b></td><td>$[MUNICIPIO/ENTIDAD]</td></tr>
+  <tr><td><b>MUNICIPIO</b></td><td>$[MUNICIPIO/MUNICIPIO]</td></tr>
+  <tr><td><b>CONTROL</b></td><td>$[MUNICIPIO/CONTROL]</td></tr>
+  <tr><td><b>NOMBRE</b></td><td>$[MUNICIPIO/NOMBRE]</td></tr>
+  <tr><td><b>Geometry1_</b></td><td>$[MUNICIPIO/Geometry1_]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>00ffaaff</color>
+		</PolyStyle>
+	</Style>
+	<StyleMap id="falseColor8">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor39</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor114</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Placemark>
-		<styleUrl>#falseColor114</styleUrl>
+		<name>1</name>
+		<open>1</open>
+		<styleUrl>#falseColor8</styleUrl>
 		<ExtendedData>
 			<SchemaData schemaUrl="#S_MUNICIPIO_IISS">
 				<SimpleData name="ID">1</SimpleData>
