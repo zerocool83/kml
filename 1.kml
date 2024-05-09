@@ -57,8 +57,6 @@
 		</Pair>
 	</StyleMap>
 	<Placemark>
-		<name>1</name>
-		<open>1</open>
 		<styleUrl>#falseColor8</styleUrl>
 		<ExtendedData>
 			<SchemaData schemaUrl="#S_MUNICIPIO_IISS">
