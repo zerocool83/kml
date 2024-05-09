@@ -48,7 +48,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff00caca</color>
+			<color>7f00caca</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor10">
@@ -63,7 +63,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffaaff</color>
+			<color>7fffaaff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor100">
@@ -78,7 +78,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffa4ff06</color>
+			<color>7fa4ff06</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor101">
@@ -103,7 +103,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7f55aa</color>
+			<color>7f7f55aa</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor103">
@@ -128,7 +128,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff5e06ca</color>
+			<color>7f5e06ca</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor105">
@@ -153,7 +153,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff881caf</color>
+			<color>7f881caf</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor107">
@@ -168,7 +168,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7cfff5</color>
+			<color>7f7cfff5</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor108">
@@ -193,7 +193,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7cfff5</color>
+			<color>7f7cfff5</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor11">
@@ -208,7 +208,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffb4f3</color>
+			<color>7fffb4f3</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor110">
@@ -223,7 +223,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff97ff05</color>
+			<color>7f97ff05</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor111">
@@ -238,7 +238,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff050cde</color>
+			<color>7f050cde</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor112">
@@ -253,7 +253,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff881caf</color>
+			<color>7f881caf</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor113">
@@ -268,7 +268,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff2cc0ff</color>
+			<color>7f2cc0ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor114">
@@ -283,7 +283,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffaaff</color>
+			<color>7fffaaff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor115">
@@ -318,7 +318,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff050cde</color>
+			<color>7f050cde</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor118">
@@ -333,7 +333,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7940ff</color>
+			<color>7f7940ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor119">
@@ -348,7 +348,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fffffb05</color>
+			<color>7ffffb05</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor12">
@@ -363,7 +363,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7f55ff</color>
+			<color>7f7f55ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor120">
@@ -378,7 +378,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7940ff</color>
+			<color>7f7940ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor121">
@@ -393,7 +393,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff8200be</color>
+			<color>7f8200be</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor122">
@@ -408,7 +408,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff03889a</color>
+			<color>7f03889a</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor123">
@@ -423,7 +423,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff64ff0b</color>
+			<color>7f64ff0b</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor124">
@@ -468,7 +468,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff266b04</color>
+			<color>7f266b04</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor128">
@@ -483,7 +483,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffb05116</color>
+			<color>7fb05116</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor129">
@@ -498,7 +498,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff266b04</color>
+			<color>7f266b04</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor13">
@@ -513,7 +513,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff8200be</color>
+			<color>7f8200be</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor130">
@@ -528,7 +528,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff06ac</color>
+			<color>7fff06ac</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor131">
@@ -543,7 +543,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff007e7e</color>
+			<color>7f007e7e</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor132">
@@ -558,7 +558,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fffffb05</color>
+			<color>7ffffb05</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor133">
@@ -573,7 +573,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fff1ff20</color>
+			<color>7ff1ff20</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor134">
@@ -598,7 +598,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff64ff0b</color>
+			<color>7f64ff0b</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor136">
@@ -613,7 +613,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffca07ff</color>
+			<color>7fca07ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor137">
@@ -628,7 +628,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffb4b910</color>
+			<color>7fb4b910</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor138">
@@ -643,7 +643,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fffacbff</color>
+			<color>7ffacbff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor139">
@@ -658,7 +658,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff57fa</color>
+			<color>7fff57fa</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor14">
@@ -683,7 +683,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff680b</color>
+			<color>7fff680b</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor141">
@@ -698,7 +698,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffd165ff</color>
+			<color>7fd165ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor142">
@@ -723,7 +723,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff680b</color>
+			<color>7fff680b</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor144">
@@ -738,7 +738,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fff1ff20</color>
+			<color>7ff1ff20</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor145">
@@ -763,7 +763,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fffacbff</color>
+			<color>7ffacbff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor147">
@@ -788,7 +788,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff0c86ff</color>
+			<color>7f0c86ff</color>
 			<colorMode>random</colorMode>
 		</PolyStyle>
 	</Style>
@@ -834,7 +834,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff0c86ff</color>
+			<color>7f0c86ff</color>
 			<colorMode>random</colorMode>
 		</PolyStyle>
 	</Style>
@@ -850,7 +850,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff03889a</color>
+			<color>7f03889a</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor17">
@@ -875,7 +875,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff08df42</color>
+			<color>7f08df42</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor19">
@@ -890,7 +890,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7f55aa</color>
+			<color>7f7f55aa</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor2">
@@ -915,7 +915,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff57fa</color>
+			<color>7fff57fa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor21">
@@ -930,7 +930,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffb2ff</color>
+			<color>7fffb2ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor22">
@@ -945,7 +945,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff07b9</color>
+			<color>7fff07b9</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor23">
@@ -960,7 +960,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffaaaa</color>
+			<color>7fffaaaa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor24">
@@ -975,7 +975,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff07b9</color>
+			<color>7fff07b9</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor25">
@@ -1020,7 +1020,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff08df42</color>
+			<color>7f08df42</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor29">
@@ -1035,7 +1035,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffb05116</color>
+			<color>7fb05116</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor3">
@@ -1050,7 +1050,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffca07ff</color>
+			<color>7fca07ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor30">
@@ -1065,7 +1065,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffb814b8</color>
+			<color>7fb814b8</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor31">
@@ -1090,7 +1090,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffb2ff</color>
+			<color>7fffb2ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor33">
@@ -1115,7 +1115,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff01870a</color>
+			<color>7f01870a</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor35">
@@ -1130,7 +1130,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffaaaa</color>
+			<color>7fffaaaa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor36">
@@ -1145,7 +1145,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff00ffaa</color>
+			<color>7f00ffaa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor37">
@@ -1160,7 +1160,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffb4f3</color>
+			<color>7fffb4f3</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor38">
@@ -1175,7 +1175,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff00ffaa</color>
+			<color>7f00ffaa</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor39">
@@ -1190,7 +1190,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffaaff</color>
+			<color>7fffaaff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor4">
@@ -1265,7 +1265,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff97ff05</color>
+			<color>7f97ff05</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor46">
@@ -1290,7 +1290,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff5a12f5</color>
+			<color>7f5a12f5</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor48">
@@ -1305,7 +1305,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff5a12f5</color>
+			<color>7f5a12f5</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor49">
@@ -1320,7 +1320,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff01870a</color>
+			<color>7f01870a</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor5">
@@ -1335,7 +1335,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff77ff07</color>
+			<color>7f77ff07</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor50">
@@ -1350,7 +1350,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffb814b8</color>
+			<color>7fb814b8</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor51">
@@ -1385,7 +1385,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff05b8</color>
+			<color>7fff05b8</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor54">
@@ -1400,7 +1400,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff9b4fff</color>
+			<color>7f9b4fff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor55">
@@ -1415,7 +1415,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff2cc0ff</color>
+			<color>7f2cc0ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor56">
@@ -1450,7 +1450,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffa4ff07</color>
+			<color>7fa4ff07</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor59">
@@ -1465,7 +1465,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffba3ebc</color>
+			<color>7fba3ebc</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor6">
@@ -1480,7 +1480,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffb4b910</color>
+			<color>7fb4b910</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor60">
@@ -1495,7 +1495,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffc7c7c7</color>
+			<color>7fc7c7c7</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor61">
@@ -1510,7 +1510,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffffaaff</color>
+			<color>7fffaaff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor62">
@@ -1525,7 +1525,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff05afd1</color>
+			<color>7f05afd1</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor63">
@@ -1540,7 +1540,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffa4ff06</color>
+			<color>7fa4ff06</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor64">
@@ -1565,7 +1565,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff00caca</color>
+			<color>7f00caca</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor66">
@@ -1580,7 +1580,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffd165ff</color>
+			<color>7fd165ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor67">
@@ -1595,7 +1595,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff7998</color>
+			<color>7fff7998</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor68">
@@ -1610,7 +1610,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff89fd3b</color>
+			<color>7f89fd3b</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor69">
@@ -1625,7 +1625,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff89fd3b</color>
+			<color>7f89fd3b</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor7">
@@ -1640,7 +1640,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff77ff07</color>
+			<color>7f77ff07</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor70">
@@ -1665,7 +1665,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff05afd1</color>
+			<color>7f05afd1</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor72">
@@ -1680,7 +1680,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff05b8</color>
+			<color>7fff05b8</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor73">
@@ -1705,7 +1705,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffcc006d</color>
+			<color>7fcc006d</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor75">
@@ -1720,7 +1720,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff06ac</color>
+			<color>7fff06ac</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor76">
@@ -1735,7 +1735,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fff411ff</color>
+			<color>7ff411ff</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor77">
@@ -1750,7 +1750,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffba3ebc</color>
+			<color>7fba3ebc</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor78">
@@ -1765,7 +1765,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffc7c7c7</color>
+			<color>7fc7c7c7</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor79">
@@ -1800,7 +1800,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff1bbd05</color>
+			<color>7f1bbd05</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor81">
@@ -1815,7 +1815,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff007e7e</color>
+			<color>7f007e7e</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor82">
@@ -1830,7 +1830,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffcc006d</color>
+			<color>7fcc006d</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor83">
@@ -1865,7 +1865,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff5e06ca</color>
+			<color>7f5e06ca</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor86">
@@ -1880,7 +1880,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>fff411ff</color>
+			<color>7ff411ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor87">
@@ -1905,7 +1905,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff2f0f</color>
+			<color>7fff2f0f</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor89">
@@ -1920,7 +1920,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff2f0f</color>
+			<color>7fff2f0f</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor9">
@@ -1935,7 +1935,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff1bbd05</color>
+			<color>7f1bbd05</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor90">
@@ -1950,7 +1950,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff7f55ff</color>
+			<color>7f7f55ff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor91">
@@ -1985,7 +1985,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffff7998</color>
+			<color>7fff7998</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor94">
@@ -2000,7 +2000,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ff9b4fff</color>
+			<color>7f9b4fff</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor95">
@@ -2045,7 +2045,7 @@
 </table>]]></text>
 		</BalloonStyle>
 		<PolyStyle>
-			<color>ffa4ff07</color>
+			<color>7fa4ff07</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor99">
