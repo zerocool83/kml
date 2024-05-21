@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>1.kml</name>
+	<Schema name="MUNICIPIO" id="S_MUNICIPIO_IISS0">
+		<SimpleField type="long" name="ID"><displayName>&lt;b&gt;ID&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="ENTIDAD"><displayName>&lt;b&gt;ENTIDAD&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="MUNICIPIO"><displayName>&lt;b&gt;MUNICIPIO&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="CONTROL"><displayName>&lt;b&gt;CONTROL&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="NOMBRE"><displayName>&lt;b&gt;NOMBRE&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Geometry1_"><displayName>&lt;b&gt;Geometry1_&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="falseColor152">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>ID</b></td><td>$[MUNICIPIO/ID]</td></tr>
+  <tr><td><b>ENTIDAD</b></td><td>$[MUNICIPIO/ENTIDAD]</td></tr>
+  <tr><td><b>MUNICIPIO</b></td><td>$[MUNICIPIO/MUNICIPIO]</td></tr>
+  <tr><td><b>CONTROL</b></td><td>$[MUNICIPIO/CONTROL]</td></tr>
+  <tr><td><b>NOMBRE</b></td><td>$[MUNICIPIO/NOMBRE]</td></tr>
+  <tr><td><b>Geometry1_</b></td><td>$[MUNICIPIO/Geometry1_]</td></tr>
+</table>]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>7fc7c7c7</color>
+		</PolyStyle>
+	</Style>
+</Document>
+</kml>	
