@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>DISTRITO_LOCAL.kml</name>
+	<Schema name="DISTRITO_LOCAL" id="S_DISTRITO_LOCAL_IIIS">
+		<SimpleField type="int" name="ENTIDAD"><displayName>&lt;b&gt;ENTIDAD&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="TIPO"><displayName>&lt;b&gt;TIPO&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="CONTROL"><displayName>&lt;b&gt;CONTROL&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="DISTRITO_L"><displayName>&lt;b&gt;DISTRITO_L&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="ID"><displayName>&lt;b&gt;ID&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Geometry1_"><displayName>&lt;b&gt;Geometry1_&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema>
+	<Style id="falseColor">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>ENTIDAD</b></td><td>$[DISTRITO_LOCAL/ENTIDAD]</td></tr>
+  <tr><td><b>TIPO</b></td><td>$[DISTRITO_LOCAL/TIPO]</td></tr>
+  <tr><td><b>CONTROL</b></td><td>$[DISTRITO_LOCAL/CONTROL]</td></tr>
+  <tr><td><b>DISTRITO_L</b></td><td>$[DISTRITO_LOCAL/DISTRITO_L]</td></tr>
+  <tr><td><b>ID</b></td><td>$[DISTRITO_LOCAL/ID]</td></tr>
+  <tr><td><b>Geometry1_</b></td><td>$[DISTRITO_LOCAL/Geometry1_]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>55f821ff</color>
+		</PolyStyle>
+	</Style>
+</Document>
+</kml>
