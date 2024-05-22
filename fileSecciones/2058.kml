@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?><kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom"><Document><Schema xmlns="http://www.opengis.net/kml/2.2" name="SECCION" id="S_SECCION_IIIIIISI">
+		<SimpleField type="long" name="ID"><displayName>&lt;b&gt;ID&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="ENTIDAD"><displayName>&lt;b&gt;ENTIDAD&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="DISTRITO_L"><displayName>&lt;b&gt;DISTRITO_L&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="MUNICIPIO"><displayName>&lt;b&gt;MUNICIPIO&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="SECCION"><displayName>&lt;b&gt;SECCION&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="TIPO"><displayName>&lt;b&gt;TIPO&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="long" name="CONTROL"><displayName>&lt;b&gt;CONTROL&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="DISTRITO_F"><displayName>&lt;b&gt;DISTRITO_F&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="string" name="Geometry1_"><displayName>&lt;b&gt;Geometry1_&lt;/b&gt;</displayName>
+</SimpleField>
+		<SimpleField type="int" name="DISTANCIA"><displayName>&lt;b&gt;DISTANCIA&lt;/b&gt;</displayName>
+</SimpleField>
+	</Schema><Style xmlns="http://www.opengis.net/kml/2.2" id="falseColor">
+		<BalloonStyle>
+			<text><![CDATA[<table border="0">
+  <tr><td><b>ID</b></td><td>$[SECCION/ID]</td></tr>
+  <tr><td><b>ENTIDAD</b></td><td>$[SECCION/ENTIDAD]</td></tr>
+  <tr><td><b>DISTRITO_L</b></td><td>$[SECCION/DISTRITO_L]</td></tr>
+  <tr><td><b>MUNICIPIO</b></td><td>$[SECCION/MUNICIPIO]</td></tr>
+  <tr><td><b>SECCION</b></td><td>$[SECCION/SECCION]</td></tr>
+  <tr><td><b>TIPO</b></td><td>$[SECCION/TIPO]</td></tr>
+  <tr><td><b>CONTROL</b></td><td>$[SECCION/CONTROL]</td></tr>
+  <tr><td><b>DISTRITO_F</b></td><td>$[SECCION/DISTRITO_F]</td></tr>
+  <tr><td><b>Geometry1_</b></td><td>$[SECCION/Geometry1_]</td></tr>
+  <tr><td><b>DISTANCIA</b></td><td>$[SECCION/DISTANCIA]</td></tr>
+</table>
+]]></text>
+		</BalloonStyle>
+		<PolyStyle>
+			<color>55fcff29</color>
+		</PolyStyle>
+	</Style><Placemark><styleUrl xmlns="http://www.opengis.net/kml/2.2">#falseColor</styleUrl><ExtendedData xmlns="http://www.opengis.net/kml/2.2">
+				<SchemaData schemaUrl="#S_SECCION_IIIIIISI">
+					<SimpleData name="ID">1979</SimpleData>
+					<SimpleData name="ENTIDAD">19</SimpleData>
+					<SimpleData name="DISTRITO_L">18</SimpleData>
+					<SimpleData name="MUNICIPIO">48</SimpleData>
+					<SimpleData name="SECCION">2058</SimpleData>
+					<SimpleData name="TIPO">2</SimpleData>
+					<SimpleData name="CONTROL">1322</SimpleData>
+					<SimpleData name="DISTRITO_F">1</SimpleData>
+					<SimpleData name="Geometry1_">1=X+Hd0</SimpleData>
+					<SimpleData name="DISTANCIA">0</SimpleData>
+				</SchemaData>
+			</ExtendedData><Polygon xmlns="http://www.opengis.net/kml/2.2">
+				<outerBoundaryIs>
+					<LinearRing>
+						<coordinates>
+							-100.4332174786023,25.6823445754954,0 -100.4332960710357,25.6820316633076,0 -100.4333824722002,25.68168765926755,0 -100.4330214044786,25.68157096837384,0 -100.433378430922,25.68073279841204,0 -100.4343035072444,25.67856099593202,0 -100.4343282094648,25.6785030014148,0 -100.4346151368097,25.67783852230166,0 -100.4347124557141,25.67761305743588,0 -100.4355619832389,25.67558159401856,0 -100.435561853046,25.675560414029,0 -100.4355615825953,25.67551641653387,0 -100.4355613121457,25.67547241903851,0 -100.4359940967648,25.67473056534659,0 -100.4357818618694,25.67439530449163,0 -100.4350408819301,25.67441212144926,0 -100.4348924498775,25.67441548974578,0 -100.4287405022834,25.67451005321084,0 -100.4286784764338,25.67543106825403,0 -100.4286727498536,25.67551610117062,0 -100.4286636763086,25.67565083238636,0 -100.4286113593561,25.6759019591993,0 -100.4280323067577,25.67731211177598,0 -100.4276736159499,25.67822590556077,0 -100.4276545362603,25.67831266819697,0 -100.427671411582,25.67846287175792,0 -100.4277460560407,25.67859681234926,0 -100.42781390063,25.67871836761863,0 -100.4278577870565,25.67879699755519,0 -100.4279916187452,25.67903677884093,0 -100.4280398897758,25.67919718118518,0 -100.4279517221537,25.67938416134058,0 -100.4277267265588,25.67989185115437,0 -100.4275780393628,25.68025306748626,0 -100.4274166365129,25.68068387055355,0 -100.4272417126784,25.68117020398832,0 -100.4283297910073,25.68113924434351,0 -100.4285129254972,25.68113955609282,0 -100.4296091518216,25.68114141738686,0 -100.4300195159294,25.68114585022032,0 -100.430154854037,25.68115647276916,0 -100.4304477424561,25.68117946084156,0 -100.4308704461917,25.68122624960859,0 -100.4321187930424,25.68136442079843,0 -100.4325014230011,25.68143295772409,0 -100.432353151713,25.68182287617346,0 -100.432332217875,25.68186762039011,0 -100.4321755505507,25.68220248176362,0 -100.4319974131882,25.68256872830843,0 -100.4322137590128,25.68259778627602,0 -100.4331228101423,25.68271987959783,0 -100.4332174786023,25.6823445754954,0 
+						</coordinates>
+					</LinearRing>
+				</outerBoundaryIs>
+			</Polygon></Placemark></Document></kml>
